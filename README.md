@@ -1,5 +1,5 @@
-# What is Git ?
-It is a software where the developer can create a space where he/she can track the development of the software and also we can control the ditribution of the files.
-It is basically a command-line tool and maintained by linux.
-It is need to be  install locally .
-
+# How I created my GIT account today ?
+As Git is to be installed locally to the desktop and at Github we can created account with the help of the mail id.
+<br /> 
+# Rishabh Porwal (2021EET2121)
+#
